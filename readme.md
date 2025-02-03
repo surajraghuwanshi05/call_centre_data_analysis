@@ -39,7 +39,7 @@ The approximate sentiment distribution of the comments received is as follows:
 
 ## Jupyter Notebook Analysis
 
-The repository includes an **IPython Notebook** (`analysis.ipynb`) that contains the code and visualizations related to the above insights. The notebook covers the following:
+The repository includes an **IPython Notebook** (`main.ipynb`) that contains the code and visualizations related to the above insights. The notebook covers the following:
 
 - **Channel Analysis**: Aggregating and visualizing the number of inquiries by channel.
 - **Monthly Engagement**: Analyzing and plotting the number of inquiries received per month.
